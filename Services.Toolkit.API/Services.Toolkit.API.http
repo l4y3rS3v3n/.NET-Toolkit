@@ -1,0 +1,6 @@
+@Services.Toolkit.HOST = http://localhost:5051
+
+GET {{Services.Toolkit.HOST}}/hc
+Accept: application/json
+
+###
